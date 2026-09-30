@@ -1,5 +1,5 @@
 """
-Excel 报表合并/拆分工具核心模块
+Excel 报表合并/拆分工具
 """
 import re
 from pathlib import Path
